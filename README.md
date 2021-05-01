@@ -1,4 +1,5 @@
-# Space Rocks Classification
+# Space Rocks Classification ![](https://cdn.iconscout.com/icon/free/png-32/space-science-3-1153535.png)
+![space-rocks-classification-using-pytorch](https://socialify.git.ci/sharmas1ddharth/space-rocks-classification-using-pytorch/image?font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
 
 ## Libraries Required
 - pandas 
